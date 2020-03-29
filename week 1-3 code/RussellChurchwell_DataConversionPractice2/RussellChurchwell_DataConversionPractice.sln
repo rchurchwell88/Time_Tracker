@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussellChurchwell_DataConversionPractice", "RussellChurchwell_DataConversionPractice\RussellChurchwell_DataConversionPractice.csproj", "{19D9BD8F-2957-4BA9-B0BB-5A0C7C4BDF89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BA031425-A2C0-4B12-A232-2CDFFF22C5C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D9BD8F-2957-4BA9-B0BB-5A0C7C4BDF89}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{19D9BD8F-2957-4BA9-B0BB-5A0C7C4BDF89}.Debug|anycpu.Build.0 = Debug|anycpu
+		{19D9BD8F-2957-4BA9-B0BB-5A0C7C4BDF89}.Release|anycpu.ActiveCfg = Release|anycpu
+		{19D9BD8F-2957-4BA9-B0BB-5A0C7C4BDF89}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

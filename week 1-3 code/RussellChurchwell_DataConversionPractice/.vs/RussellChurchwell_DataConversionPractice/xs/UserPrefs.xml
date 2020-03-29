@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{19D9BD8F-2957-4BA9-B0BB-5A0C7C4BDF89}|Default">
+  <MonoDevelop.Ide.ItemProperties.RussellChurchwell__DataConversionPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RussellChurchwell_DataConversionPractice/Utilities.cs">
+    <Files>
+      <File FileName="RussellChurchwell_DataConversionPractice/Utilities.cs" Line="1" Column="1" />
+      <File FileName="RussellChurchwell_DataConversionPractice/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RussellChurchwell_DataConversionPractice" expanded="True">
+            <Node name="RussellChurchwell_DataConversionPractice" expanded="True">
+              <Node name="Utilities.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

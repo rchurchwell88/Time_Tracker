@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{23013B7C-B4CE-4EC1-9806-06DC075BE91F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChurchwellRussell__WorkingApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Utilities.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Utilities.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChurchwellRussell_WorkingApp" expanded="True">
+            <Node name="ChurchwellRussell_WorkingApp" expanded="True">
+              <Node name="Utilities.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
