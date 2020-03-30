@@ -1,11 +1,11 @@
 ﻿using System;
 using MySql.Data.MySqlClient;
-namespace ChurchwellRussell_TimeTrackerApp
+namespace ChurchwellRussell_SprintApp
 {
     public class SQL
     {
         MySqlConnection conn;
-        string Sconn = "server=127.0.0.1; user = root; database = RussellChurchwell_MDV229_Database_Month(202003); port = 8889; password = root";
+        string Sconn = "server=127.0.0.1; user = root; database = sprint_02; port = 8889; password = root";
         Utilities util =new Utilities();
 
 

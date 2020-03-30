@@ -14,7 +14,7 @@ namespace ChurchwellRussell_SprintApp
         {
             int menu;
 
-            while(!int.TryParse(Console.ReadLine(), out menu) || menu<1  || menu>4)
+            while(!int.TryParse(Console.ReadLine(), out menu) || menu<1  || menu>5)
             {
                 Console.Write("Invalid entry, try again: ");
             }
@@ -45,9 +45,10 @@ namespace ChurchwellRussell_SprintApp
         // Print main menu
         public void PrintMenu()
         {
-            Console.WriteLine("1: Show total hours per day spent on school");
-            Console.WriteLine("2: Show accumulated task hours per day");
-            Console.WriteLine("3: Show percentage of hours not used each.");
+            Console.WriteLine("1: Show data organized");
+            Console.WriteLine("2: Input new tasks/times");
+            Console.WriteLine("3: Run calculations\n");
+            Console.WriteLine("4: Exit");
 
             Console.Write("\nChoice: ");
         }
